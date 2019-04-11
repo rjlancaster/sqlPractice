@@ -1,0 +1,1 @@
+SELECT distinct rating from film;
