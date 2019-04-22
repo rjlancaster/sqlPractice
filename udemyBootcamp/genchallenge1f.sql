@@ -1,2 +1,2 @@
 SELECT COUNT(*) from film
-WHERE title ILIKE '%TRUMAN%'
+WHERE title ILIKE '%TRUMAN%';
